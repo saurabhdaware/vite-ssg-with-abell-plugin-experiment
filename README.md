@@ -1,6 +1,4 @@
-# Hello World Vite SSG
-
-Vanilla SSG setup using Vite
+# Vite SSG with abell as a plugin
 
 ## Install Dependencies
 
@@ -11,21 +9,12 @@ yarn
 ## Run Dev Server
 
 ```sh
-node server.js # or yarn dev
-```
-
-## SSR Output
-
-```sh
-yarn build # builds server and client code
-NODE_ENV=production node server.js # or yarn serve
+yarn dev
 ```
 
 ## SSG Output
 
 ```sh
 yarn generate
-npx serve dist/static # to run static server
+npx serve dist # to run static server
 ```
-
-Built while following [Vite SSR docs](https://vitejs.dev/guide/ssr.html)
