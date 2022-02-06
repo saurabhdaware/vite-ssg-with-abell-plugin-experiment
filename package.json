@@ -4,6 +4,6 @@
     "generate": "abell generate"
   },
   "dependencies": {
-    "abell": "^1.0.0-alpha.1"
+    "abell": "^1.0.0-alpha.10"
   }
 }

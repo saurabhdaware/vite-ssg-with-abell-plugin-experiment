@@ -64,10 +64,10 @@
     "@types/mime" "^1"
     "@types/node" "*"
 
-abell@^1.0.0-alpha.1:
-  version "1.0.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/abell/-/abell-1.0.0-alpha.1.tgz#58d8158706a5c86040a6e7d589c66f61ffeab2fa"
-  integrity sha512-9nqAVZQiGbE+MbI7RKMFpCcQlIjujaBTbR7AdwqV1B3ousq7hAejJytJLWcN+XuWfF/3481Lcl4TormLanAagQ==
+abell@^1.0.0-alpha.10:
+  version "1.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/abell/-/abell-1.0.0-alpha.10.tgz#5ad3c3f8789b1f1d675a43c5ea86a2f561a8bb4b"
+  integrity sha512-rMytCJdV/LOjzh0NC3GYTTMJ0pRZ98apTiyUfu/tPCjBYS5cTcqjQJoKD9RRtdC1uL8GfHAAc+jby280QKht8g==
   dependencies:
     "@types/express" "^4.17.13"
     commander "^7.2.0"
