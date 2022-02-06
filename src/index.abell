@@ -1,0 +1,15 @@
+{{
+  import rawText from './something.txt?raw'
+  import navbar from './navbar.abell';
+}}
+<html>
+<body>
+  {{ navbar }}
+
+  {{ 3 + 99 }}
+  <div id="app"></div>
+
+  hello {{ rawText }}
+  <script type="module" src="./entry.client.ts"></script>
+</body>
+</html>

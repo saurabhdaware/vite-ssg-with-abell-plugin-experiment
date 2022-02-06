@@ -1,0 +1,7 @@
+{{
+  import text from './something.txt?raw';
+}}
+<nav>
+  {{ 'NAVBAR'.toLowerCase() }}
+  {{ text }}
+</nav>
